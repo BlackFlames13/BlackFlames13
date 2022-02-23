@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BlackFlames13
 - 👀 I’m interested in Coding, Chess, Gaming.
 - 🌱 I’m currently learning Python
-- 📫 How to reach me Youtube - Tech Channel (Dark DJ's Tech)/Gaming Channel (DJ13_Games)
+- 📫 How to reach me Youtube - Tech Channel (Dark DJ's Tech)/Gaming Channel (DJ13_Games)/ discord - DJ13#6339
 
 <!---
 BlackFlames13/BlackFlames13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
