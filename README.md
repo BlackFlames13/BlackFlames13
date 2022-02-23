@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BlackFlames13
-- 👀 I’m interested in Coding, Chess, Gaming,
+- 👀 I’m interested in Coding, Chess, Gaming.
 - 🌱 I’m currently learning Python
 - 📫 How to reach me Youtube - Tech Channel (Dark DJ's Tech)/Gaming Channel (DJ13_Games)
 
